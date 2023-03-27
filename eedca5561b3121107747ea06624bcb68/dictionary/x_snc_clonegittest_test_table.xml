@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="441da9561b3121107747ea06624bcb1a" label="Test Table" max_length="40" name="x_snc_clonegittest_test_table" type="collection">
+        <element label="Test Field" max_length="40" name="test_field" type="boolean"/>
+    </element>
+</database>
