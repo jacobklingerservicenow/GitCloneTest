@@ -2,6 +2,8 @@
     <element db_object_id="441da9561b3121107747ea06624bcb1a" label="Test Table2" max_length="40" name="x_snc_clonegittest_test_table" type="collection">
         <element label="Test2" max_length="255" name="test2" type="string_full_utf8"/>
         <element label="test9" max_length="40" name="test9" type="boolean"/>
+        <element label="Test 10" max_length="100" name="test_10" type="string"/>
+        <element label="Test 11" max_length="100" name="test_11" type="string"/>
         <element label="Test 8" max_length="40" name="test_8" type="boolean"/>
         <element label="Test Field" max_length="40" name="test_field" type="boolean"/>
     </element>
